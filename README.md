@@ -1,7 +1,7 @@
 ## About me 👋🙋‍♀️👩‍💻
 I love life and data! I still become excited about science like a five-year-old would for ice cream; this is how my coworkers describe me, spreading positive energy and joy to people around me. I believe every day is an opportunity to learn something new, make a better version of myself, and never give up on my thirst to learn. My life goal, not only through my education but also through my extracurricular activities, is to increase the standards of human life. I believe working with data in the biopharma/biotech/healthcare industry is one of the best ways to achieve such a goal. 
 ## What I do 💻
-I am a data scientist with vast knowledge and experience in biological systems, in addition to expertise in working with data. I worked as a data scientist in a biotech company for less than 2 years. Recently, I was laid off as a part of a 41% reduction of workforce by the company. I am looking for my next challenge and opportunity as a data scientist in the biotech industry.
+I am a data scientist with vast knowledge and experience in biological systems (a PhD and two Masters degree in Biomedical Engineering), in addition to expertise in working with data. I worked as a data scientist in a biotech company for less than 2 years. Recently, I was laid off as a part of a 41% reduction of workforce by the company. I am looking for my next challenge and opportunity as a data scientist in the biotech industry.
 ## List of my projects 📑
 #### A work in progress! Is there any end to the learning, though? 🤷‍♀️
 ### Machine Learning:
