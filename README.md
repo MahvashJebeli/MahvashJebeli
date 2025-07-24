@@ -24,8 +24,11 @@ I am a data scientist with vast knowledge and experience in biological systems (
 * Immunology, Molecular and cellular biology, Genomics
 ## What I'm currently working on 📚🌱
 AI Model Uncertainty in Medical Imaging (ICLR Submission in Prep) | May 2025 – Present
+
 Collaboration with Harvard Medical School, Ophthalmology Dept.
+
 •	Spearheading first-author research for a position paper submission to ICLR 2025, a top-tier AI conference, investigating aleatoric uncertainty in diagnostic AI.
+
 •	Developing and benchmarking multiple state-of-the-art deep learning architectures (e.g., Vision Transformers, ConvNeXt, ResNet) using PyTorch to quantify sources of model uncertainty.
 ## How to reach me 📫
 [<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="25" height="25"> LinkedIn](https://www.linkedin.com/in/mahvash-jebeli/)
