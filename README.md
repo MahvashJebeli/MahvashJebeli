@@ -17,7 +17,7 @@ I am a data scientist with vast knowledge and experience in biological systems (
 ### Data Analysis:
 * Data visualization and manipulation, Processing large datasets, Genomic data analysis, Predictive analytics, Hypothesis testing, t-test, ANOVA, A/B test
 ### Programming Languages & Tools:
-* Python (pandas, NumPy, scikit-learn, TensorFlow), R, SQL, JMP, MATLAB, Cloud computing (Azure, Google Colab)
+* Python (pandas, NumPy, scikit-learn, TensorFlow, PyTorch), R, SQL, JMP, MATLAB, Cloud computing (Azure, Google Colab)
 ### Soft Skills:
 * Leadership, Time management, Critical thinking, Teamwork, Storytelling
 ### Experimental:
