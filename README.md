@@ -1,36 +1,83 @@
-## About me 👋🙋‍♀️👩‍💻
-I love life and data! I still become excited about science like a five-year-old would for ice cream; this is how my coworkers describe me, spreading positive energy and joy to people around me. I believe every day is an opportunity to learn something new, make a better version of myself, and never give up on my thirst to learn. My life goal, not only through my education but also through my extracurricular activities, is to increase the standards of human life. I believe working with data in the biopharma/biotech/healthcare industry is one of the best ways to achieve such a goal. 
-## What I do 💻
-I am a data scientist with vast knowledge and experience in biological systems (a PhD and two Masters degree in Biomedical Engineering), in addition to expertise in working with data. Currently, I work as a data scientist for Amgen. As the main focus of my job, I lead scalable automation of Design History Files (DHF) development, leveraging Generative AI, LLMs (ChatGPT-4o), NLP (including knowledge graphs), SQL and Spark to process, access, and later upload large datasets on AWS servers. This effort resulted in a remarkable 95% human effort. As part of this initiative, I developed a Python class on Databricks for statistical analysis and cloud computing. Daily I use different Python libraries (such as pandas), GitLab (for code version control), Databricks, and AWS (s3) to access the large datasets. On the side, I develop and validate Spotfire scripts for conducting biostatistical analysis. The cherry on top for me is mentoring and Training Junior Team members.
-## List of my personal projects 📑
+# Hi, I'm Mahvash Jebeli 👋
+
+I'm a PhD-trained AI Scientist passionate about building and deploying machine learning solutions to solve critical challenges in healthcare and biotechnology. My expertise is at the intersection of **Generative AI**, **Computer Vision**, and **Computational Biology**, with a focus on creating robust, reliable, and impactful systems.
+
+---
+
+## 🔭 Key Projects & Research
+
+Here are the highlights of my recent work.
+
+### 1. AI Model Reliability in Medical Imaging (ICLR 2026 Submission in Prep)
+* **Description:** Spearheading first-author research on aleatoric uncertainty in diagnostic AI, in collaboration with Harvard Medical School's Ophthalmology Dept. The goal is to build more trustworthy and reliable AI systems for safety-critical medical applications.
+* **Tech Stack:** PyTorch, Vision Transformers (ViT), ConvNeXt, ResNet, modern computer vision libraries.
+* **Status:** *Code is private pending publication.*
+
+### 2. Production Generative AI System for Regulatory Automation
+* **Description:** As the technical lead at Amgen, I architected and built an end-to-end system using Generative AI (LLMs) and a RAG-style pipeline with knowledge graphs to automate the creation of Design History Files.
+* **Impact:** Reduced a 60-hour manual process to minutes, with a projected $2M in savings, while improving the consistency and reliability of regulatory submissions.
+* **Tech Stack:** Python, OpenAI API, NLP, Knowledge Graphs, Spark, AWS, Databricks.
+* **Status:** *Code is proprietary to Amgen.*
+
+### 3. AI Agent for Clinical Trial Matching
+* **Description:** As a volunteer for the March startup, I am building an AI agent from the ground up to help rare disease patients find and understand their eligibility for clinical trials. The agent uses NLP to parse complex criteria and provides simple, explanatory feedback to empower patients.
+* **Tech Stack:** Python, FastAPI, LLMs, NLP.
+* **Status:** *Code is proprietary to the March startup.*
+
+---
+
+## 🛠️ My Skillset
+
+<table>
+  <tr>
+    <td align="center"><strong>AI & Machine Learning</strong></td>
+    <td align="center"><strong>Programming & Tools</strong></td>
+    <td align="center"><strong>Domain Expertise</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Generative AI & LLMs<br/>
+      Deep Learning & Computer Vision<br/>
+      Natural Language Processing (NLP)<br/>
+      Predictive Modeling<br/>
+      Uncertainty Quantification
+    </td>
+    <td>
+      Python (PyTorch, TensorFlow, Scikit-learn)<br/>
+      SQL & Relational Databases<br/>
+      Cloud & Big Data (AWS, Spark, Databricks)<br/>
+      MLOps (Git, CI/CD, Docker concepts)
+    </td>
+    <td>
+      Computational Biology<br/>
+      Biomedical Image Analysis<br/>
+      Clinical & Regulated (GxP) Environments<br/>
+      Drug Discovery & Development
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Foundational Projects (Public Repos)
 #### A work in progress! Is there any end to the learning, though? 🤷‍♀️
-### Machine Learning:
-* Analyzed different datasets using various machine learning algorithms, including KNN, SVM, classification, and regression, utilizing the scikit-learn library and matplotlib to visualize. Additionally, the algorithms were built from scratch to compare with the built-in ones. [GitHub](https://github.com/MahvashJebeli/ML-algorithms)
-* Investigated a large genomics dataset of different cancer line’s gene expressions to predict cancer type. Utilized scikit-learn, pandas, and NumPy libraries in Python. SVM and clustering algorithms (with PCA) were employed. [GitHub](https://github.com/MahvashJebeli/Gene_Expressions_ML_Algorithms)
-### Deep Learning:
-* Developed a deep learning model using convolutional neural networks and TensorFlow to classify images into different groups and make predictions. The model was trained using cloud computing (Google Colab) and cross-validation technique. [GitHub](https://github.com/MahvashJebeli/Deep_Learning)
-### Natural Language Processing:
-* Developed a natural language processing model using convolutional neural networks and TensorFlow to make predictions about the sarcasm level of any given sentence. [GitHub](https://github.com/MahvashJebeli/Natural-Language-Processing-NLP-)
-## My skills 📜
-### Machine Learning:
-* Supervised Learning (Decision Trees, Random Forest, Logistic Regression, Classification, LDA/QDA, KNN, SVMs), Unsupervised Learning (Clustering, PCA), Neural Network, Deep Learning, Artificial intelligence (AI), Natural Language Processing (NLP), Computer Vision
-### Data Analysis:
-* Data visualization and manipulation, Processing large datasets, Genomic data analysis, Predictive analytics, Hypothesis testing, t-test, ANOVA, A/B test
-### Programming Languages & Tools:
-* Python (pandas, NumPy, scikit-learn, TensorFlow, PyTorch), R, SQL, JMP, MATLAB, Cloud computing (Azure, Google Colab)
-### Soft Skills:
-* Leadership, Time management, Critical thinking, Teamwork, Storytelling
-### Experimental:
-* Immunology, Molecular and cellular biology, Genomics
-## What I'm currently working on 📚🌱
-AI Model Uncertainty in Medical Imaging (ICLR Submission in Prep) | May 2025 – Present
+These projects represent my foundational work in ML/DL.
 
-Collaboration with Harvard Medical School, Ophthalmology Dept.
+* **Machine Learning Algorithms from Scratch:** [GitHub](https://github.com/MahvashJebeli/ML-algorithms)
+* **Genomics (Cancer Type Prediction):** [GitHub](https://github.com/MahvashJebeli/Gene_Expressions_ML_Algorithms)
+* **Deep Learning (Image Classification with CNNs):** [GitHub](https://github.com/MahvashJebeli/Deep_Learning)
+* **Natural Language Processing (Sarcasm Detection):** [GitHub](https://github.com/MahvashJebeli/Natural-Language-Processing-NLP-)
 
-•	Spearheading first-author research for a position paper submission to ICLR 2025, a top-tier AI conference, investigating aleatoric uncertainty in diagnostic AI.
+---
 
-•	Developing and benchmarking multiple state-of-the-art deep learning architectures (e.g., Vision Transformers, ConvNeXt, ResNet) using PyTorch to quantify sources of model uncertainty.
-## How to reach me 📫
+## 📫 How to Reach Me
+<a href="https://www.linkedin.com/in/mahvash-jebeli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>
+&nbsp;
+<a href="mailto:mahvash.jebeli@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="25"></a>
+&nbsp;
+<a href="https://scholar.google.com/citations?user=[YOUR_ID]"><img src="https://img.shields.io/badge/Google_Scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white" height="25"></a>
+
+
 [<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="25" height="25"> LinkedIn](https://www.linkedin.com/in/mahvash-jebeli/)
 &nbsp;
 [<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="25" height="25"> Twitter (or X?)](https://twitter.com/Mahvash_Jebeli)
@@ -40,14 +87,4 @@ Collaboration with Harvard Medical School, Ophthalmology Dept.
 <!--
 **MahvashJebeli/MahvashJebeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
