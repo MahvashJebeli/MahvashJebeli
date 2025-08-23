@@ -46,7 +46,7 @@ Here are the highlights of my recent work.
       Python (PyTorch, TensorFlow, Scikit-learn)<br/>
       SQL & Relational Databases<br/>
       Cloud & Big Data (AWS, Spark, Databricks)<br/>
-      MLOps (Git, CI/CD, Docker concepts)
+      MLOps (Git, CI/CD)
     </td>
     <td>
       Computational Biology<br/>
@@ -76,13 +76,6 @@ These projects represent my foundational work in ML/DL.
 <a href="mailto:mahvash.jebeli@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="25"></a>
 &nbsp;
 <a href="https://scholar.google.com/citations?user=[YOUR_ID]"><img src="https://img.shields.io/badge/Google_Scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white" height="25"></a>
-
-
-[<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="25" height="25"> LinkedIn](https://www.linkedin.com/in/mahvash-jebeli/)
-&nbsp;
-[<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="25" height="25"> Twitter (or X?)](https://twitter.com/Mahvash_Jebeli)
-&nbsp;
-[<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="25" height="25"> Gmail](mahvash.jebeli@gmail.com)
 
 <!--
 **MahvashJebeli/MahvashJebeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
