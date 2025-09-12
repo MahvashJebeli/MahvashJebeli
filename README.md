@@ -61,8 +61,9 @@ Here are the highlights of my recent work.
 
 ## 🎓 Foundational Projects (Public Repos)
 #### A work in progress! Is there any end to the learning, though? 🤷‍♀️
-These projects represent my foundational work in ML/DL.
+These projects represent my foundational work and recent self-directed explorations in ML/DL.
 
+* **Transformer for Genotype-Phenotype Prediction:** [GitHub](https://github.com/MahvashJebeli/Transformer-Genotype-Feature-Extractor)
 * **Machine Learning Algorithms from Scratch:** [GitHub](https://github.com/MahvashJebeli/ML-algorithms)
 * **Genomics (Cancer Type Prediction):** [GitHub](https://github.com/MahvashJebeli/Gene_Expressions_ML_Algorithms)
 * **Deep Learning (Image Classification with CNNs):** [GitHub](https://github.com/MahvashJebeli/Deep_Learning)
@@ -76,8 +77,3 @@ These projects represent my foundational work in ML/DL.
 <a href="mailto:mahvash.jebeli@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="25"></a>
 &nbsp;
 <a href="https://scholar.google.com/citations?user=[YOUR_ID]"><img src="https://img.shields.io/badge/Google_Scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white" height="25"></a>
-
-<!--
-**MahvashJebeli/MahvashJebeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
