@@ -64,10 +64,10 @@ Here are the highlights of my recent work.
 These projects represent my foundational work and recent self-directed explorations in ML/DL.
 
 * **Transformer for Genotype-Phenotype Prediction:** [GitHub](https://github.com/MahvashJebeli/Transformer-Genotype-Feature-Extractor)
-* **Machine Learning Algorithms from Scratch:** [GitHub](https://github.com/MahvashJebeli/ML-algorithms)
-* **Genomics (Cancer Type Prediction):** [GitHub](https://github.com/MahvashJebeli/Gene_Expressions_ML_Algorithms)
 * **Deep Learning (Image Classification with CNNs):** [GitHub](https://github.com/MahvashJebeli/Deep_Learning)
 * **Natural Language Processing (Sarcasm Detection):** [GitHub](https://github.com/MahvashJebeli/Natural-Language-Processing-NLP-)
+* **Machine Learning Algorithms from Scratch:** [GitHub](https://github.com/MahvashJebeli/ML-algorithms)
+* **Genomics (Cancer Type Prediction):** [GitHub](https://github.com/MahvashJebeli/Gene_Expressions_ML_Algorithms)
 
 ---
 
