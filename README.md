@@ -8,10 +8,10 @@ I'm a PhD-trained AI Scientist passionate about building and deploying machine l
 
 Here are the highlights of my recent work.
 
-### 1. AI Model Reliability in Medical Imaging (ICLR 2026 Submission in Prep)
-* **Description:** Spearheading first-author research on aleatoric uncertainty in diagnostic AI, in collaboration with Harvard Medical School's Ophthalmology Dept. The goal is to build more trustworthy and reliable AI systems for safety-critical medical applications.
-* **Tech Stack:** PyTorch, Vision Transformers (ViT), ConvNeXt, ResNet, modern computer vision libraries.
-* **Status:** *Code is private pending publication.*
+%### 1. AI Model Reliability in Medical Imaging (ICLR 2026 Submission in Prep)
+%* **Description:** Spearheading first-author research on aleatoric uncertainty in diagnostic AI, in collaboration with Harvard Medical School's Ophthalmology Dept. The goal is to build more trustworthy and reliable AI systems for safety-critical medical applications.
+%* **Tech Stack:** PyTorch, Vision Transformers (ViT), ConvNeXt, ResNet, modern computer vision libraries.
+%* **Status:** *Code is private pending publication.*
 
 ### 2. Production Generative AI System for Regulatory Automation
 * **Description:** As the technical lead at Amgen, I architected and built an end-to-end system using Generative AI (LLMs) and a RAG-style pipeline with knowledge graphs to automate the creation of Design History Files.
