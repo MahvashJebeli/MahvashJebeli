@@ -13,13 +13,13 @@ Here are the highlights of my recent work.
 %* **Tech Stack:** PyTorch, Vision Transformers (ViT), ConvNeXt, ResNet, modern computer vision libraries.
 %* **Status:** *Code is private pending publication.*
 
-### 2. Production Generative AI System for Regulatory Automation
+### 1. Production Generative AI System for Regulatory Automation
 * **Description:** As the technical lead at Amgen, I architected and built an end-to-end system using Generative AI (LLMs) and a RAG-style pipeline with knowledge graphs to automate the creation of Design History Files.
 * **Impact:** Reduced a 60-hour manual process to minutes, with a projected $2M in savings, while improving the consistency and reliability of regulatory submissions.
 * **Tech Stack:** Python, OpenAI API, NLP, Knowledge Graphs, Spark, AWS, Databricks.
 * **Status:** *Code is proprietary to Amgen.*
 
-### 3. AI Agent for Clinical Trial Matching
+### 2. AI Agent for Clinical Trial Matching
 * **Description:** As a volunteer for the March startup, I am building an AI agent from the ground up to help rare disease patients find and understand their eligibility for clinical trials. The agent uses NLP to parse complex criteria and provides simple, explanatory feedback to empower patients.
 * **Tech Stack:** Python, FastAPI, LLMs, NLP.
 * **Status:** *Code is proprietary to the March startup.*
