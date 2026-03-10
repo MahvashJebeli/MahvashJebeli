@@ -1,6 +1,6 @@
 # Hi, I'm Mahvash Jebeli 👋
 
-I'm a PhD-trained AI Scientist passionate about building and deploying machine learning solutions to solve critical challenges in healthcare and biotechnology. My expertise is at the intersection of **Generative AI**, **Computer Vision**, and **Computational Biology**, with a focus on creating robust, reliable, and impactful systems.
+I'm a PhD-trained **AI Research Scientist** specializing in bridging the gap between rigorous machine learning research and real-world deployment. My expertise lies at the intersection of **Generative AI**, **Natural Language Processing (NLP)**, and **Uncertainty Quantification**, with a core focus on **AI evaluation**, **model safety**, and building highly reliable, production-grade systems.
 
 ---
 
