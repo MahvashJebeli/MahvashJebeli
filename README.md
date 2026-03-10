@@ -31,32 +31,32 @@ Here are the highlights of my recent work.
 ## 🛠️ My Skillset
 
 <table>
-  <tr>
-    <td align="center"><strong>AI & Machine Learning</strong></td>
-    <td align="center"><strong>Programming & Tools</strong></td>
-    <td align="center"><strong>Domain Expertise</strong></td>
-  </tr>
-  <tr>
-    <td>
-      Generative AI & LLMs<br/>
-      Deep Learning & Computer Vision<br/>
-      Natural Language Processing (NLP)<br/>
-      Predictive Modeling<br/>
-      Uncertainty Quantification
-    </td>
-    <td>
-      Python (PyTorch, TensorFlow, Scikit-learn)<br/>
-      SQL & Relational Databases<br/>
-      Cloud & Big Data (AWS, Spark, Databricks)<br/>
-      MLOps (Git, CI/CD)
-    </td>
-    <td>
-      Computational Biology<br/>
-      Biomedical Image Analysis<br/>
-      Clinical & Regulated (GxP) Environments<br/>
-      Drug Discovery & Development
-    </td>
-  </tr>
+  <tr>
+    <td align="center"><strong>AI & Machine Learning</strong></td>
+    <td align="center"><strong>Programming & Tools</strong></td>
+    <td align="center"><strong>Domain Expertise</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Generative AI & LLMs<br/>
+      Deep Learning & Computer Vision<br/>
+      Natural Language Processing (NLP)<br/>
+      Predictive Modeling<br/>
+      Uncertainty Quantification
+    </td>
+    <td>
+      Python (PyTorch, TensorFlow, Scikit-learn)<br/>
+      SQL & Relational Databases<br/>
+      Cloud & Big Data (AWS, Spark, Databricks)<br/>
+      MLOps (Git, CI/CD)
+    </td>
+    <td>
+      AI Evaluation & Model Reliability<br/>
+      Production-Grade LLM & RAG Systems<br/>
+      Regulatory Workflow Automation<br/>
+      Biomedical & Scientific Data Analysis
+    </td>
+  </tr>
 </table>
 
 ---
