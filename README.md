@@ -1,6 +1,6 @@
 # Hi, I'm Mahvash Jebeli 👋
 
-I'm a PhD-trained **AI Research Scientist** specializing in bridging the gap between rigorous machine learning research and real-world deployment. My expertise lies at the intersection of **Generative AI**, **Natural Language Processing (NLP)**, and **Uncertainty Quantification**, with a core focus on **AI evaluation**, **model safety**, and building highly reliable, production-grade systems.
+I'm a PhD-trained **AI Research Scientist** specializing in bridging the gap between rigorous machine learning research and real-world deployment. My expertise lies at the intersection of **AI Safety**, **Evaluation Methodologies**, **Generative AI**, **Natural Language Processing (NLP)**, and **Uncertainty Quantification**. I have a core focus on **establishing robust AI guardrails**, **evaluating model truthfulness**, **model safety**, and building highly reliable, production-grade consensus systems for zero-tolerance domains.
 
 ---
 
@@ -14,14 +14,19 @@ Here are the highlights of my recent work.
 * **Tech Stack:** PyTorch, Vision Transformers (ViT), ConvNeXt, ResNet, modern computer vision libraries.
 * **Status:** *Code is private pending publication.*
 -->
+### 1. Enterprise AI Evaluation & Multi-Agent Consensus Systems
+* **Description:** As an AI Research Scientist at Collate, I architected a production-grade evaluation pipeline for autonomous LLM agents and AI-generated content. I designed a multi-judge consensus framework utilizing a majority vote of LLMs to systematically validate thousands of extracted facts and complex claims against human-verified ground truths.
+* **Impact:** Developed comprehensive safety metrics, cross-run stability checks, and a deterministic sentence-to-source mapping architecture to trace AI claims directly to origin documents, ensuring rigorous hallucination mitigation. Scaled this multi-modal pipeline to **efficiently parse and verify** dense, 500+ page structural layouts at high throughput.
+* **Tech Stack:** Python, Vision-Language Models (VLMs), LLMs, RAG, Multi-Agent Systems, Structural XML Parsing.
+* **Status:** *Code is proprietary to Collate.*
 
-### 1. Production Generative AI System for Regulatory Automation
+### 2. Production Generative AI System for Regulatory Automation
 * **Description:** As the technical lead at Amgen, I architected and built an end-to-end system using Generative AI (LLMs) and a RAG-style pipeline with knowledge graphs to automate the creation of Design History Files.
 * **Impact:** Reduced a 60-hour manual process to minutes, with a projected $2M in savings, while improving the consistency and reliability of regulatory submissions.
 * **Tech Stack:** Python, OpenAI API, NLP, Knowledge Graphs, Spark, AWS, Databricks.
 * **Status:** *Code is proprietary to Amgen.*
 
-### 2. AI Agent for Clinical Trial Matching
+### 3. AI Agent for Clinical Trial Matching
 * **Description:** As a volunteer for the March startup, I am building an AI agent from the ground up to help rare disease patients find and understand their eligibility for clinical trials. The agent uses NLP to parse complex criteria and provides simple, explanatory feedback to empower patients.
 * **Tech Stack:** Python, FastAPI, LLMs, NLP.
 * **Status:** *Code is proprietary to the March startup.*
@@ -31,32 +36,32 @@ Here are the highlights of my recent work.
 ## 🛠️ My Skillset
 
 <table>
-  <tr>
-    <td align="center"><strong>AI & Machine Learning</strong></td>
-    <td align="center"><strong>Programming & Tools</strong></td>
-    <td align="center"><strong>Domain Expertise</strong></td>
-  </tr>
-  <tr>
-    <td>
-      Generative AI & LLMs<br/>
-      Deep Learning & Computer Vision<br/>
-      Natural Language Processing (NLP)<br/>
-      Predictive Modeling<br/>
-      Uncertainty Quantification
-    </td>
-    <td>
-      Python (PyTorch, TensorFlow, Scikit-learn)<br/>
-      SQL & Relational Databases<br/>
-      Cloud & Big Data (AWS, Spark, Databricks)<br/>
-      MLOps (Git, CI/CD)
-    </td>
-    <td>
-      AI Evaluation & Model Reliability<br/>
-      Production-Grade LLM & RAG Systems<br/>
-      Regulatory Workflow Automation<br/>
-      Biomedical & Scientific Data Analysis
-    </td>
-  </tr>
+  <tr>
+    <td align="center"><strong>AI & Machine Learning</strong></td>
+    <td align="center"><strong>Programming & Tools</strong></td>
+    <td align="center"><strong>Domain Expertise</strong></td>
+  </tr>
+  <tr>
+    <td>
+      AI Safety & Guardrails<br/>
+      Generative AI & LLMs<br/>
+      Deep Learning & Computer Vision<br/>
+      Natural Language Processing (NLP)<br/>
+      Uncertainty Quantification
+    </td>
+    <td>
+      Python (PyTorch, TensorFlow, Scikit-learn)<br/>
+      SQL & Relational Databases<br/>
+      Cloud & Big Data (AWS, Spark, Databricks)<br/>
+      MLOps (Git, CI/CD)
+    </td>
+    <td>
+      AI Evaluation & Model Reliability<br/>
+      Production-Grade LLM & RAG Systems<br/>
+      Regulatory Workflow Automation<br/>
+      Biomedical & Scientific Data Analysis
+    </td>
+  </tr>
 </table>
 
 ---
